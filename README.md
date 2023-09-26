@@ -16,5 +16,5 @@ fig = px.pie(
     gapminder2007,'continent','lifeExp'
 )
 fig.show()
-
+print("中国历年人均gdp")
 

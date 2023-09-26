@@ -17,4 +17,6 @@ fig = px.pie(
 )
 fig.show()
 print("中国历年人均gdp")
+gdp_china=gapminder['China']
+print(gdp_china)
 
